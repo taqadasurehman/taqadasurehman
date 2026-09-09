@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/Taqds">
-  <img src="https://komarev.com/ghpvc/?username=Taqds&label=Profile%120Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Taqds&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
 </a>
 
 <a href="https://github.com/Taqds?tab=followers">

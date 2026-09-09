@@ -1,130 +1,183 @@
-Taqadas Ur Rehman
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Taqadas%20Ur%20Rehman&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" alt="Taqadas Ur Rehman banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Taqadas%20Ur%20Rehman&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Next.js+%26+React+Developer;PHP+%26+WordPress+Developer;Svelte+Frontend+Developer;Building+Dashboards+and+Web+Applications" width="100%" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Next.js+%26+React+Developer;PHP+%26+WordPress+Developer;Svelte+Frontend+Developer;Building+Dashboards+and+Web+Applications" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/Taqds"><img src="https://komarev.com/ghpvc/?username=Taqds&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" /></a>
-<a href="https://github.com/Taqds?tab=followers"><img src="https://img.shields.io/github/followers/Taqds?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" /></a>
+<a href="https://github.com/Taqds">
+  <img src="https://komarev.com/ghpvc/?username=Taqds&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+</a>
+
+<a href="https://github.com/Taqds?tab=followers">
+  <img src="https://img.shields.io/github/followers/Taqds?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
+</a>
 
 </div>
 
-👨‍💻 About Me
+---
 
-I am a web developer focused on building clean, responsive, and practical web applications.
+## 👨‍💻 About Me
 
-I have worked with Next.js, React.js, Svelte, Node.js, Python (Flask), PHP, WordPress, MongoDB, and MySQL. My projects include admin dashboards, lead-generation tools, form-based applications, and custom WordPress development.
+I am a web developer focused on building clean, responsive and practical web applications.
 
-🚀 Building modern web applications and dashboards
+I have worked with **Next.js, React.js, Svelte, Node.js, Python (Flask), PHP, WordPress, MongoDB, and MySQL.**. My projects include admin dashboards, lead-generation tools, form-based applications and custom WordPress development.
 
-🔌 Published a plugin on the official WordPress repository
+* 🚀 Building modern web applications and dashboards
+* 🔌 Published a plugin on the official WordPress repository
+* 🎨 Focused on responsive and user-friendly interfaces
+* 📚 Improving my backend and database development skills
+* 🛠️ Learning through practical, real-world projects
 
-🎨 Focused on responsive and user-friendly interfaces
+---
 
-📚 Improving my backend and database development skills
+## 🧰 Tech Stack
 
-🛠️ Learning through practical, real-world projects
+### Frontend
 
-🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind" alt="Frontend Technologies" />
+</p>
 
-Frontend
+### Backend and Databases
 
-<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind" alt="Frontend Technologies" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,mysql" alt="Backend and Databases" />
+</p>
 
-Backend and Databases
+### WordPress and Tools
 
-<p><img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,mysql" alt="Backend and Databases" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,figma,postman" alt="WordPress and Development Tools" />
+</p>
 
-WordPress and Tools
+---
 
-<p><img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,figma,postman" alt="WordPress and Development Tools" /></p>
+## 🚀 Featured Work
 
-🚀 Featured Work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔌 TR Pixel Engine
+### 🔌 TR Pixel Engine
 
 A WordPress image optimization plugin published on the official WordPress Plugin Directory.
 
-Main features
+**Main features**
 
-WebP image conversion
+* WebP image conversion
+* Bulk image optimization
+* Image comparison tools
+* WordPress admin dashboard
+* Image quality settings
 
-Bulk image optimization
+<br/>
 
-Image comparison tools
+<a href="https://wordpress.org/plugins/tr-pixel-engine/">
+  <img src="https://img.shields.io/badge/View%20on%20WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="TR Pixel Engine" />
+</a>
 
-WordPress admin dashboard
+</td>
 
-Image quality settings
+<td width="50%" valign="top">
 
-View TR Pixel Engine on WordPress.org
-
-📊 Lead Generation Tool
+### 📊 Lead Generation Tool
 
 A lead-management application developed with Next.js and TypeScript.
 
-Main features
+**Main features**
 
-Lead management dashboard
+* Lead management dashboard
+* Forms and data handling
+* Responsive interface
+* Reusable UI components
+* Organized application structure
 
-Forms and data handling
+<br/>
 
-Responsive interface
+<a href="https://github.com/Taqds/lead-generation-tool">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lead Generation Tool" />
+</a>
 
-Reusable UI components
+</td>
+</tr>
 
-Organized application structure
+<tr>
+<td width="50%" valign="top">
 
-View Lead Generation Tool
-
-⚡ Svelte Projects
+### ⚡ Svelte Projects
 
 Frontend applications and interfaces developed with Svelte.
 
-Work includes
+**Work includes**
 
-Reusable Svelte components
+* Reusable Svelte components
+* Responsive layouts
+* Dashboard interfaces
+* Dynamic UI sections
+* Clean component structure
 
-Responsive layouts
+<br/>
 
-Dashboard interfaces
+<a href="https://github.com/Taqds?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Projects-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte Projects" />
+</a>
 
-Dynamic UI sections
+</td>
 
-Clean component structure
+<td width="50%" valign="top">
 
-View Svelte Projects
-
-🖥️ Dashboard Development
+### 🖥️ Dashboard Development
 
 Designed and developed dashboard interfaces for data management and administration.
 
-Work includes
+**Work includes**
 
-Admin dashboards
+* Admin dashboards
+* Analytics layouts
+* Tables and forms
+* Sidebar navigation
+* Responsive dashboard design
 
-Analytics layouts
+<br/>
 
-Tables and forms
+<a href="https://github.com/Taqds?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Work-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Dashboard Projects" />
+</a>
 
-Sidebar navigation
+</td>
+</tr>
+</table>
 
-Responsive dashboard design
+---
 
-Explore Dashboard Work
-
-💻 Technologies I Work With
+## 💻 Technologies I Work With
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,svelte,ts,js,tailwind,php,wordpress,nodejs,mongodb,mysql" alt="Technologies" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
 
-📚 Currently Improving
+---
 
+## 📚 Currently Improving
+
+```text
 Next.js Backend Development
 REST API Integration
 Authentication
@@ -132,41 +185,66 @@ MongoDB and MySQL
 WordPress Plugin Development
 Reusable Component Architecture
 Responsive Dashboard Development
+```
 
-📊 GitHub Analytics
+---
 
-<div align="center">
-
-<a href="https://github.com/Taqds"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taqds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Statistics" /></a>
-<a href="https://github.com/Taqds"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taqds&layout=compact&theme=tokyonight&hide_border=true" width="46%" alt="Most Used Languages" /></a>
-
-<br/>
-
-<a href="https://github.com/Taqds"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Taqds&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" /></a>
-
-</div>
-
-📈 Contribution Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/Taqds">View my contribution activity on GitHub</a>
-</div>
 
-🤝 Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taqds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
 
-<div align="center">
-<a href="https://github.com/Taqds"><img src="https://img.shields.io/badge/GitHub-Taqds-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/taqadasurrehman"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://wordpress.org/plugins/tr-pixel-engine/"><img src="https://img.shields.io/badge/WordPress-TR%20Pixel%20Engine-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Plugin" /></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taqds&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-Build • Learn • Improve • Repeat
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" width="100%" alt="Footer banner" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Taqds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taqds&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Taqds">
+  <img src="https://img.shields.io/badge/GitHub-Taqds-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/taqadasurrehman">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wordpress.org/plugins/tr-pixel-engine/">
+  <img src="https://img.shields.io/badge/WordPress-TR%20Pixel%20Engine-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Build • Learn • Improve • Repeat
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" width="100%" />
+
+</div>
+
+issue : 

@@ -6,13 +6,8 @@
 
 <br/>
 
-<a href="https://github.com/Taqds">
-  <img src="https://komarev.com/ghpvc/?username=Taqds&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-</a>
 
-<a href="https://github.com/Taqds?tab=followers">
-  <img src="https://img.shields.io/github/followers/Taqds?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers" />
-</a>
+
 
 </div>
 
@@ -24,11 +19,11 @@ I am a web developer focused on building clean, responsive and practical web app
 
 I have worked with **Next.js, React.js, Svelte, Node.js, Python (Flask), PHP, WordPress, MongoDB, and MySQL.**. My projects include admin dashboards, lead-generation tools, form-based applications and custom WordPress development.
 
-* 🚀 Building modern web applications and dashboards
-* 🔌 Published a plugin on the official WordPress repository
-* 🎨 Focused on responsive and user-friendly interfaces
-* 📚 Improving my backend and database development skills
-* 🛠️ Learning through practical, real-world projects
+* Building modern web applications and dashboards
+* Published a plugin on the official WordPress repository
+* Focused on responsive and user-friendly interfaces
+* Improving my backend and database development skills
+* Learning through practical, real-world projects
 
 ---
 
@@ -54,13 +49,13 @@ I have worked with **Next.js, React.js, Svelte, Node.js, Python (Flask), PHP, Wo
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 TR Pixel Engine
+###  TR Pixel Engine
 
 A WordPress image optimization plugin published on the official WordPress Plugin Directory.
 
@@ -82,7 +77,7 @@ A WordPress image optimization plugin published on the official WordPress Plugin
 
 <td width="50%" valign="top">
 
-### 📊 Lead Generation Tool
+###  Lead Generation Tool
 
 A lead-management application developed with Next.js and TypeScript.
 
@@ -106,7 +101,7 @@ A lead-management application developed with Next.js and TypeScript.
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Svelte Projects
+###  Svelte Projects
 
 Frontend applications and interfaces developed with Svelte.
 
@@ -128,7 +123,7 @@ Frontend applications and interfaces developed with Svelte.
 
 <td width="50%" valign="top">
 
-### 🖥️ Dashboard Development
+### Dashboard Development
 
 Designed and developed dashboard interfaces for data management and administration.
 
@@ -152,7 +147,7 @@ Designed and developed dashboard interfaces for data management and administrati
 
 ---
 
-## 💻 Technologies I Work With
+##  Technologies I Work With
 
 <p align="center">
 
@@ -175,7 +170,7 @@ Designed and developed dashboard interfaces for data management and administrati
 
 ---
 
-## 📚 Currently Improving
+## Currently Improving
 
 ```text
 Next.js Backend Development
@@ -189,7 +184,7 @@ Responsive Dashboard Development
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -209,7 +204,7 @@ Responsive Dashboard Development
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -219,7 +214,7 @@ Responsive Dashboard Development
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -247,4 +242,3 @@ Responsive Dashboard Development
 
 </div>
 
-issue : 

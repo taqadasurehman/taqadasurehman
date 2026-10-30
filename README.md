@@ -184,25 +184,6 @@ Responsive Dashboard Development
 
 ---
 
-##  GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Taqds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
-
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taqds&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Taqds&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## Contribution Activity
 

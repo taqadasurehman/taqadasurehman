@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Taqadas%20Ur%20Rehman&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Next.js+%26+React+Developer;PHP+%26+WordPress+Developer;Svelte+Frontend+Developer;Building+Dashboards+and+Web+Applications" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=Contribution Activity
 
 
 
@@ -185,15 +183,6 @@ Responsive Dashboard Development
 ---
 
 
-## Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taqds&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
 
 ## Connect With Me
 
